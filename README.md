@@ -6,3 +6,6 @@
 <b>DreamHack Tournament</b>
 <img src="https://variety.com/wp-content/uploads/2019/10/fortnite-season-x-out-of-time.png?w=1000&h=563&crop=1">
 <b> Fortnite Season X</b>
+
+<h1> Valorant Clips: </h1>
+
