@@ -14,3 +14,11 @@
 <body> Another Acheivement was my kill record in valorant in one game. This happened in a casual game with my friends. I was able to kill 53 people in a single game. Pretty Good Right? </body>
 <img src="https://preview.redd.it/ifd21odvcx751.png?width=554&format=png&auto=webp&s=3758d7e9259b322e84e3432cc63b859e7e9039e5">
 <b> This image is just an example of it. (Not the Acutal Image) </b>
+
+<h2> Fortnite</h2>
+<body> Fortnite was one of my favorite games grwoing up. I have been playing since early 2018 and have been playing ever since. I stopped playing a lot around 2019, but I got back into it mid quarantine. Some of my best Fortnite moments were streamsniping Valkyrae. She was my favorite streamer and I was able to troll her in a game of Fortnite. Also, another one of my best acheivements was being the Highest Ranked back in Chapter 2, Season 1. I believe that the ranking system was called Arena and I was in the champions division.</body>
+
+
+
+<img src="https://i.redd.it/mpvmxuxydrp21.jpg">
+<b> Ranking System That Used To Be Used </b>
