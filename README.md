@@ -10,7 +10,7 @@
 
 <h1> Valorant </h1>
 <body> Valorant was a gmae that I used to adore. it was my main videogame from 2020 to 2023. One of my best acheivements was being able to hitting immortal 3 and ranked #3000 in North America. </body>
-<img src="https://preview.redd.it/4bg0qckvcob81.png?width=562&format=png&auto=webp&s=43ce9062a623019f7d0698bab2a98ce1a77e6184">
+<img src="https://github.com/A1yum/MyGamingPortfolio/blob/main/imm%203.jpg?raw=true">
 <b> Immortal 3</b>
 <body> Another Acheivement was my kill record in valorant in one game. This happened in a casual game with my friends. I was able to kill 50 people in a single game. Pretty Good Right? </body>
 <img src="https://preview.redd.it/ifd21odvcx751.png?width=554&format=png&auto=webp&s=3758d7e9259b322e84e3432cc63b859e7e9039e5">
