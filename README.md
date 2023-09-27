@@ -20,7 +20,7 @@
 <b> Ranking System That Used To Be Used </b>
 
 <body> Another one of my favorite acheivements was streamsniping Valkyrae in a fortnite game and I got this really cool clip out of it </body>
-PUT LINK
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jaJo4Xj-uSM?si=TifQt_XagxN5dVqE&amp;start=3213" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h3> Team Fight Tactics</h3>
 <body> TFT or Team Fight Tactics used to be a game that I played a lot and the rank that I was able to get to until i eventually quit was Diamond </body>
@@ -29,4 +29,4 @@ Diamond in Tft
 
 <h4> Next we have Overwatch and I used to play this game when it originally came out and this was actually one of the first shooter games that I was into. The highest rank that I was able to get in the regular ranked mode was diamond, but in other speacial gamemodes I was able to get higher.</h4>
 
-<img src="https://github.com/A1yum/MyGamingPortfolio/blob/main/over.JPEG?raw=true" width=500 height=500>
+<img src="https://github.com/A1yum/MyGamingPortfolio/blob/main/over.JPEG?raw=true">
