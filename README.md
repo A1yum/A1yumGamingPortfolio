@@ -24,4 +24,9 @@ PUT LINK
 
 <h3> Team Fight Tactics</h3>
 <body> TFT or Team Fight Tactics used to be a game that I played a lot and the rank that I was able to get to until i eventually quit was Diamond </body>
+<img src="https://github.com/A1yum/MyGamingPortfolio/blob/main/diamond%20tft.jpg?raw=true">
+Diamond in Tft
+
+<h4> Next we have Overwatch and I used to play this game when it originally came out and this was actually one of the first shooter games that I was into. The highest rank that I was able to get in the regular ranked mode was diamond, but in other speacial gamemodes I was able to get higher.</h4>
+
 <img src="
